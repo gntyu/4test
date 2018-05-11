@@ -68,6 +68,22 @@ const devWebpackConfig = merge(baseWebpackConfig, {
   ]
 })
 
+
+//这里是json-server配置信息  
+// json-server.js  
+const jsonServer = require('json-server')  /*引入json-server*/
+const apiServer = jsonServer.create()  /*搭建一个server*/
+const apiRouter = jsonServer.router('db.json') //数据关联server，db.json与index.html同级  
+const middlewares = jsonServer.defaults()  
+  
+apiServer.use(middlewares)  
+//apiServer.use('/api',apiRouter)    //路径后面需加入  /api/ 去访问 ,设置代理的时候有设置api，无需在这里加
+apiServer.use(apiRouter)  
+apiServer.listen(3000, () => {                 //监听端口  
+  console.log('JSON Server is running')  
+})  
+
+
 module.exports = new Promise((resolve, reject) => {
   portfinder.basePort = process.env.PORT || config.dev.port
   portfinder.getPort((err, port) => {

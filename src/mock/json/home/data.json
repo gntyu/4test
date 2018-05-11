@@ -1,0 +1,42 @@
+{
+	"title":{
+		"type":"票据类型","acceptanceEnterprise":"承兑人","realAmount":"金额(万元)","endDate":"汇票到期日","days":"剩余天数","bargainType":"议价方式","status":"操作"
+	},
+	"product":[
+		{"type":"电商","acceptanceEnterprise":"chengduiren","realAmount":"80","endDate":"2018-05-23","days":"25","bargainType":"一口价","status":"查看详情"},
+		{"type":"电商","acceptanceEnterprise":"chengduiren","realAmount":"20","endDate":"2018-05-23","days":"25","bargainType":"一口价","status":"查看详情"},
+		{"type":"电商","acceptanceEnterprise":"chengduiren","realAmount":"83","endDate":"2018-05-23","days":"25","bargainType":"竞价","status":"查看详情"},
+		{"type":"电商","acceptanceEnterprise":"chengduiren","realAmount":"30","endDate":"2018-05-23","days":"25","bargainType":"一口价","status":"查看详情"},
+		{"type":"电商","acceptanceEnterprise":"chengduiren","realAmount":"81","endDate":"2018-05-23","days":"25","bargainType":"竞价","status":"查看详情"},
+		{"type":"电商","acceptanceEnterprise":"chengduiren","realAmount":"70","endDate":"2018-05-23","days":"25","bargainType":"一口价","status":"查看详情"},
+		{"type":"电商","acceptanceEnterprise":"chengduiren","realAmount":"80","endDate":"2018-05-23","days":"25","bargainType":"一口价","status":"查看详情"},
+		{"type":"电商","acceptanceEnterprise":"chengduiren","realAmount":"20","endDate":"2018-05-23","days":"25","bargainType":"一口价","status":"查看详情"},
+		{"type":"电商","acceptanceEnterprise":"chengduiren","realAmount":"83","endDate":"2018-05-23","days":"25","bargainType":"竞价","status":"查看详情"},
+		{"type":"电商","acceptanceEnterprise":"chengduiren","realAmount":"30","endDate":"2018-05-23","days":"25","bargainType":"一口价","status":"查看详情"},
+		{"type":"电商","acceptanceEnterprise":"chengduiren","realAmount":"81","endDate":"2018-05-23","days":"25","bargainType":"竞价","status":"查看详情"},
+		{"type":"电商","acceptanceEnterprise":"chengduiren","realAmount":"70","endDate":"2018-05-23","days":"25","bargainType":"一口价","status":"查看详情"}
+	],
+	"platformNews":[
+		{"title":"量子票号成为最具有竞争力的互联网票据金融科技服务平台","sendDate":"05-15"},
+		{"title":"量子票号成为最具有竞争力的互联网票据金融科技服务平台","sendDate":"05-14"},
+		{"title":"量子票号成为最具有竞争力的互联网票据金融科技服务平台","sendDate":"05-13"},
+		{"title":"量子票号成为最具有竞争力的互联网票据金融科技服务平台","sendDate":"05-12"},
+		{"title":"量子票号成为最具有竞争力的互联网票据金融科技服务平台","sendDate":"05-11"},
+		{"title":"量子票号成为最具有竞争力的互联网票据金融科技服务平台","sendDate":"05-10"},
+		{"title":"量子票号成为最具有竞争力的互联网票据金融科技服务平台","sendDate":"05-09"}
+
+	],
+	"professionNews":[
+		{"title":"量子票号成为最具有竞争力的互联网票据金融科技服务平台","sendDate":"2018-05-07"},
+		{"title":"量子票号成为最具有竞争力的互联网票据金融科技服务平台","sendDate":"2018-05-06"},
+		{"title":"量子票号成为最具有竞争力的互联网票据金融科技服务平台","sendDate":"2018-05-05"},
+		{"title":"量子票号成为最具有竞争力的互联网票据金融科技服务平台","sendDate":"2018-05-04"},
+		{"title":"量子票号成为最具有竞争力的互联网票据金融科技服务平台","sendDate":"2018-05-03"},
+		{"title":"量子票号成为最具有竞争力的互联网票据金融科技服务平台","sendDate":"2018-05-02"},
+		{"title":"量子票号成为最具有竞争力的互联网票据金融科技服务平台","sendDate":"2018-05-01"}
+
+	],
+	"imgArr":[
+		"lzph_about_gswh.png","lzph_home_banner.png","newer-money.png","lzph_about_gswh.png","newer-trade.png"
+	]
+}

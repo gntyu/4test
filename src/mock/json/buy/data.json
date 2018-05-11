@@ -1,0 +1,19 @@
+{
+	"title":{
+		"acceptanceEnterprise":"承兑人","realAmount":"金额(万元)","endDate":"汇票到期日","days":"剩余天数","bargainType":"议价方式","status":"操作"
+	},
+	"product":[
+		{"acceptanceEnterprise":"chengduiren","realAmount":"80","endDate":"2018-05-23","days":"25","bargainType":"一口价","status":"查看详情"},
+		{"acceptanceEnterprise":"chengduiren","realAmount":"20","endDate":"2018-05-23","days":"25","bargainType":"一口价","status":"查看详情"},
+		{"acceptanceEnterprise":"chengduiren","realAmount":"83","endDate":"2018-05-23","days":"25","bargainType":"竞价","status":"查看详情"},
+		{"acceptanceEnterprise":"chengduiren","realAmount":"30","endDate":"2018-05-23","days":"25","bargainType":"一口价","status":"查看详情"},
+		{"acceptanceEnterprise":"chengduiren","realAmount":"81","endDate":"2018-05-23","days":"25","bargainType":"竞价","status":"交易中"},
+		{"acceptanceEnterprise":"chengduiren","realAmount":"70","endDate":"2018-05-23","days":"25","bargainType":"一口价","status":"查看详情"},
+		{"acceptanceEnterprise":"chengduiren","realAmount":"80","endDate":"2018-05-23","days":"25","bargainType":"一口价","status":"查看详情"},
+		{"acceptanceEnterprise":"chengduiren","realAmount":"20","endDate":"2018-05-23","days":"25","bargainType":"一口价","status":"查看详情"},
+		{"acceptanceEnterprise":"chengduiren","realAmount":"83","endDate":"2018-05-23","days":"25","bargainType":"竞价","status":"查看详情"},
+		{"acceptanceEnterprise":"chengduiren","realAmount":"30","endDate":"2018-05-23","days":"25","bargainType":"一口价","status":"查看详情"},
+		{"acceptanceEnterprise":"chengduiren","realAmount":"81","endDate":"2018-05-23","days":"25","bargainType":"竞价","status":"查看详情"},
+		{"acceptanceEnterprise":"chengduiren","realAmount":"70","endDate":"2018-05-23","days":"25","bargainType":"一口价","status":"查看详情"}
+	]
+}
